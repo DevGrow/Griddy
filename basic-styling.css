@@ -1,0 +1,12 @@
+.body {
+	width: 960px;
+	margin: 0 auto;
+	}
+	.content {
+		float: left;
+		width: 600px;
+		}
+	.sidebar {
+		float: right;
+		width: 300px;
+		}

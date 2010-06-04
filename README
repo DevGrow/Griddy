@@ -1,0 +1,17 @@
+Griddy is a small JQuery plugin thats creates a simple, customizable
+grid overlay on top of any element. It can also calculate row heights
+and column widths automatically based on the number of rows/columns 
+and gutter space. Initially the plugin was pretty limited and did only
+what I needed to, however after deciding to make it public I added a 
+few options, including:
+
+    * rows (#, default = 10, use 0 to disable)
+    * rowheight (px, default = 0 [auto])
+    * rowgutter (px, default = 20)
+    * columns (#, default = 4, use 0 to disable)
+    * columnwidth (px, default = 0 [auto])
+    * columngutter (px, default = 20)
+    * color (hex, default = #ccc)
+    * opacity (0-100, default = 30)
+
+The plugin is released under GPL, MIT and BSD licenses - free for any use!

@@ -1,3 +1,7 @@
+Plugin Name: Griddy
+Author: Monjurul Dolon, http://mdolon.com/
+More Information: http://devgrow.com/griddy-overlay
+
 Griddy is a small JQuery plugin thats creates a simple, customizable
 grid overlay on top of any element. It can also calculate row heights
 and column widths automatically based on the number of rows/columns 
